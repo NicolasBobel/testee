@@ -1,0 +1,16 @@
+C:\Users\nicol\Desktop\testee\bin\Debug\net5.0\testee.exe
+C:\Users\nicol\Desktop\testee\bin\Debug\net5.0\testee.deps.json
+C:\Users\nicol\Desktop\testee\bin\Debug\net5.0\testee.runtimeconfig.json
+C:\Users\nicol\Desktop\testee\bin\Debug\net5.0\testee.runtimeconfig.dev.json
+C:\Users\nicol\Desktop\testee\bin\Debug\net5.0\testee.dll
+C:\Users\nicol\Desktop\testee\bin\Debug\net5.0\ref\testee.dll
+C:\Users\nicol\Desktop\testee\bin\Debug\net5.0\testee.pdb
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.AssemblyInfo.cs
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.dll
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\ref\testee.dll
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.pdb
+C:\Users\nicol\Desktop\testee\obj\Debug\net5.0\testee.genruntimeconfig.cache
